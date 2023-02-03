@@ -1,13 +1,13 @@
-This repository is for a page on the geist.live site that can display all 
+This repository is for a page on the geist.live site that can display all
 GEIST collectibles.
 
-Make a Github repo
- 
-Make a Quasar app (Vue 3) with UnoCSS
+- [x] Make a Github repo & have multiple people contribute.
 
-View all GEIST Collections
+- [ ] Make a Quasar app (Vue 3) with UnoCSS
 
-Login with RelayX
+- [ ] View all GEIST Collections
 
-If you own the NFT show it otherwise show a cool silhouette of the 
-collectible.
+- [ ] Login with RelayX
+
+- [ ] If you own the NFT show it otherwise show a cool silhouette of the
+      collectible.
