@@ -3,7 +3,7 @@ GEIST collectibles.
 
 - [x] Make a Github repo & have multiple people contribute.
 
-- [ ] Make a Quasar app (Vue 3) with UnoCSS
+- [x] Make a Quasar app (Vue 3) with UnoCSS
 
 - [ ] View all GEIST Collections
 
